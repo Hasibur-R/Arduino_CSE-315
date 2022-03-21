@@ -1,0 +1,5 @@
+https://create.arduino.cc/projecthub/Jalal_Mansoori/morse-code-communication-using-arduino-f339c0
+
+https://github.com/IA-Programming-Club/Arduino-Morse-Code-LED
+
+https://www.youtube.com/watch?v=6mLytyKEU5Q
